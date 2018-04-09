@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#600202</color>
+    <color name="colorPrimaryDark">#3ea1d7</color>
+    <color name="colorAccent">#4050ff</color>
+    <color name="text_color_skyblue">#3ea1d7</color>
+    <color name="text_color_white">#ffffff</color>
+    <color name="Linear_layour_color">#0288d1</color>
+</resources>
